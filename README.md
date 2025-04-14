@@ -1,9 +1,5 @@
 # Stock-Portfolio-Manager
-Study the scenario and complete the question(s) that follow(s):
-Stock Portfolio Manager
-A portfolio is an entire collection of financial assets, including stocks and other collectibles. This refers to all investments — which may not necessarily be managed in one single account.  Portfolio management involves creating and maintaining an investment portfolio tailored to specific goals, timelines, and risk tolerance. This involves picking investments such as stocks and monitoring those investments over time. Portfolio management can be done with a professional, individual, or through an automated service. Adapted from Source: Yochim, D and Benson, A. 2022. “What Is Portfolio Management?” NerdWallet. [Online] Available at: https://www.nerdwallet.com/article/investing/what-is-portfolio-management [Accessed: 09/12/2024]
-
-Create a python application to help manage multiple stock portfolios. Your application should allow the user to add multiple portfolios to a collection structure, as well as multiple stocks in each portfolio. The stock options should store the number of shares owned for that specific stock.
+Creating a python application to help manage multiple stock portfolios. Your application should allow the user to add multiple portfolios to a collection structure, as well as multiple stocks in each portfolio. The stock options should store the number of shares owned for that specific stock.
 
 Your application should include a class with methods to do the following:
 1. Add new portfolio: adds a new portfolio to the catalogue
